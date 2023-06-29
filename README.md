@@ -1,3 +1,3 @@
 # Sokoban
 
-Trabalho desenvolvido para a M3 de algoritimos e programação
+Codigo desenvolvido por mim para trabalho referente a Materia de algoritimos e programação
