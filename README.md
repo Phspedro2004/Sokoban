@@ -1,3 +1,3 @@
 # Sokoban
 
-trabalho referente a m3 de algoritimos e programação
+Trabalho desenvolvido para a M3 de algoritimos e programação
